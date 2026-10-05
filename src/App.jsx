@@ -1,9 +1,9 @@
-import CrudDemo from './CrudDemo';
+import PaginatedPosts from './PaginatedPosts';
 
 function App() {
   return (
     <div>
-      <CrudDemo />
+      <PaginatedPosts />
     </div>
   );
 }
